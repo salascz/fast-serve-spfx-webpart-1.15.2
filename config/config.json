@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "fast-serve-115-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/fastServe115/FastServe115WebPart.js",
+          "manifest": "./src/webparts/fastServe115/FastServe115WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FastServe115WebPartStrings": "lib/webparts/fastServe115/loc/{locale}.js"
+  }
+}

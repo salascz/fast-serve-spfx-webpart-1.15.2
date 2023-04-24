@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fast-serve-spfx-webpart-1-15-2-client-side-solution",
+    "id": "b9787cb2-a645-4445-8ca6-2ff4b65b2fe5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fast-serve-spfx-webpart-1-15-2 description"
+      },
+      "longDescription": {
+        "default": "fast-serve-spfx-webpart-1-15-2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fast-serve-spfx-webpart-1-15-2 Feature",
+        "description": "The feature that activates elements of the fast-serve-spfx-webpart-1-15-2 solution.",
+        "id": "ef271d65-0ce8-4292-9e73-da28432741a6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fast-serve-spfx-webpart-1-15-2.sppkg"
+  }
+}

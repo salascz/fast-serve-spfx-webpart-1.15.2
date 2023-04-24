@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "fast-serve-spfx-webpart-1-15-2",
+    "libraryId": "b9787cb2-a645-4445-8ca6-2ff4b65b2fe5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fast-serve-spfx-webpart-1-15-2",
+    "solutionShortDescription": "fast-serve-spfx-webpart-1-15-2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
